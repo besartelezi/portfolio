@@ -1,5 +1,5 @@
 # Resume
-This here is my resume. 
+[This here is my resume.](https://besartelezi.github.io/portfolio/) 
 It's perfect place where employers will find out the reasons to hire me.
 It will also be a small challenge for me coding wise.
 I want to try out different things on Javascript that I'm not familiar with, mostly making animations.
@@ -20,15 +20,51 @@ I've read somewhere before that: 'Everyone can learn to be a good programmer, bu
 
 The page needs to have:
 - [ ] A picture of 'le moi'
+    - [x] Layout
+    - [x] Content
+    - [ ] Style
 - [ ] A small introduction
+    - [x] Layout
+    - [x] Content
+    - [ ] Style
 - [ ] Why I want to work in IT
+    - [x] Layout
+    - [ ] Content
+    - [ ] Style
 - [ ] Obligatory BeCode Promotion Part of the Resume
-- [ ] The languages I speak
-- [ ] My education/work experiences
-- [ ] My personal/professional skills
+    - [x] Layout
+    - [ ] Content
+    - [ ] Style
   - Links to other page on the website, where I talk a bit about some projects I have already made. 
+  - Explain why this experience can differentiate me from other potential employees.
 
-The homepage will be like this for now, but in the future, I'd like to split this page in two different categories, letting the more personal side of information on the home page and the more professional side on another page.
+Then comes this segment:
+- [ ] My personal skills
+    - [x] Layout
+    - [ ] Content
+    - [ ] Style
+    - Includes Language
+
+Here comes the spicy part, and I shall call this creation the 'Professional SkillBox':
+- [ ] professional skills
+  - [ ] Create a box, where all my skills are in.
+  - [ ] The words need to be jumbled all together without order
+  - [ ] Constantly move randomly
+  - [ ] The colour keeps changing without stopping
+  - [ ] Clicking/hovering over a word, lets it grow, and it stays in place.
+  - [ ] When clicking on a button, all words in the box will be ordered perfectly and the page visitor can read them in a more calm way.
+    - [ ] If possible, have it animated so the visitor can see the words run to their respective positions from their random ones, while also changing colours/sizes if needed.
+  - Link to GitHub, so the employers can see for their selves if my current programming/coding abilities lie where they desire.
+
+I have never made something like the Professional SkillBox, and I'd like to keep evolving it.
+I might even need to use OOP for this if necessary.
+
+
+### Experience
+- [ ] My education/work experiences
+    - [ ] Layout
+    - [ ] Content
+    - [ ] Style
 
 ### Coding/Projects/Programming Page (Still unsure of the title bit I'll get there)
 At the start of the page, immediately link to my GitHub.
@@ -62,10 +98,9 @@ I might add some new things, remove/rewrite some old ones, I think it's importan
 - [ ] Language button
   - The user can only select English and Dutch, since those are the languages I'm most fluent in.
 
-
 ### Header
 Links to the different pages, but make it *r e s p o n s i v e*!
-
+It also needs to have a light/darkmode switch button, as well as a way to let the user switch between Dutch and English.
 ### Footer
 Copyright by Besart Elezi.
 I will also research other footers and see what I can add here.
