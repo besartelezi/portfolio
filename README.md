@@ -35,8 +35,11 @@ The page needs to have:
     - [x] Layout
     - [ ] Content
     - [ ] Style
-  - Links to other page on the website, where I talk a bit about some projects I have already made. 
-  - Explain why this experience can differentiate me from other potential employees.
+    - Links to other page on the website, where I talk a bit about some projects I have already made. 
+    - Explain why this experience can differentiate me from other potential employees.
+
+The BeCode part of the site will have this layout: 
+![some-text](resources/images/becode-layout.jpg)
 
 Then comes this segment:
 - [ ] My personal skills
@@ -100,18 +103,20 @@ I might add some new things, remove/rewrite some old ones, I think it's importan
 
 ### Header
 Links to the different pages, but make it *r e s p o n s i v e*!
-It also needs to have a light/darkmode switch button, as well as a way to let the user switch between Dutch and English.
+It also needs to have a light/darkmode switch button.
 ### Footer
 Copyright by Besart Elezi.
 I will also research other footers and see what I can add here.
+* Social Links/Link to Github
+* Let the user switch between Dutch and English.
 
 ## Goodbye preparation, hello actually making stuff!
 With my lil' to do list done, I can finally focus on making the resume itself.
 The very first thing I did was look for what colours I'd like to use for the website itself.
 I know that I want to have a dark and light mode, so I chose these two colours just to start with:
-* ivory: #f6f7eb
+* Ivory: #f6f7eb
 * Onyx: #393e41
-
+* Charleston Green: #26292C
 
 ### Topmojo's TOP 5 REASONS WHY YOU SHOULD HIRE BESART ELEZI
 1. I have a Bachelor's degree in Communicationmanagement: Branding & Advertising.
