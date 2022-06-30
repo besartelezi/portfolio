@@ -71,6 +71,12 @@ Copyright by Besart Elezi.
 I will also research other footers and see what I can add here.
 
 ## Goodbye preparation, hello actually making stuff!
+With my lil' to do list done, I can finally focus on making the resume itself.
+The very first thing I did was look for what colours I'd like to use for the website itself.
+I know that I want to have a dark and light mode, so I chose these two colours just to start with:
+* ivory: #f6f7eb
+* Onyx: #393e41
+
 
 ### Topmojo's TOP 5 REASONS WHY YOU SHOULD HIRE BESART ELEZI
 1. I have a Bachelor's degree in Communicationmanagement: Branding & Advertising.
